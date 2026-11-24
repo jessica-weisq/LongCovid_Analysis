@@ -43,3 +43,29 @@
 
 <img width="880" height="498" alt="Screenshot 2026-11-24 at 20 14 33" src="https://github.com/user-attachments/assets/b9de1939-41cd-45fc-8b6f-7f84e7d2d844" />
 
+## Interpretation and Public Health Implications
+
+<img width="837" height="413" alt="Screenshot 2026-11-24 at 20 21 26" src="https://github.com/user-attachments/assets/8ce7086a-e0e4-46fb-af69-05ab88569c03" />
+
+<img width="835" height="367" alt="Screenshot 2026-11-24 at 20 21 35" src="https://github.com/user-attachments/assets/acd164f5-ea97-4805-a9f5-3ab2059ec9f3" />
+
+<img width="832" height="399" alt="Screenshot 2026-11-24 at 20 21 42" src="https://github.com/user-attachments/assets/cac19287-babc-4d3e-b1fa-6bb9018e49f2" />
+
+<img width="842" height="417" alt="Screenshot 2026-11-24 at 20 21 47" src="https://github.com/user-attachments/assets/78dc8715-d7fd-44b3-b481-e02bb9fc9fd9" />
+
+## Appendix
+
+<img width="841" height="418" alt="Screenshot 2026-11-24 at 20 24 54" src="https://github.com/user-attachments/assets/137f44c3-87b0-439f-acf6-b0066054a4ad" />
+
+<img width="812" height="409" alt="image" src="https://github.com/user-attachments/assets/4a7ba553-b18c-479c-a543-70696b696a76" />
+
+
+## Contributions
+
+<img width="830" height="381" alt="image" src="https://github.com/user-attachments/assets/de33870d-28e9-4dcd-9346-2cb215d2119d" />
+
+
+
+
+
+
