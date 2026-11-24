@@ -1,5 +1,6 @@
+# Long Covid Analysis
 
-##Introduction to Long COVID and Risk Factors
+## Introduction to Long COVID and Risk Factors
 
 - While most individuals recover from COVID-19 within days, others experience Long COVID, defined as symptoms persisting for more than four weeks beyond the acute phase1.
 
@@ -12,13 +13,13 @@
 - The influence of contact numbers on Long COVID has rarely been studied
 
 
-##Study Aims
+## Study Aims
 
 1. Conduct an exploratory analysis on the overall level of Long COVID in England
 2. Identify the demographic differences in Long COVID by key populations.
 3. Investigate the association between the number of people contacted and the odds of reporting Long COVID
 
-##Methodology
+## Methodology
 
 <img width="884" height="455" alt="Screenshot 2026-11-24 at 20 14 57" src="https://github.com/user-attachments/assets/09bc12a8-3807-4a24-8039-c9987452000d" />
 
@@ -30,7 +31,7 @@
 
 - Model diagnostics and sensitivity analysis: Model adequacy was assessed using variance inflation factors (VIFs) for multicollinearity and events per parameter. Three sensitivity analyses were conducted to evaluate robustness: restricting the cohort to previously infected individuals, redefining the outcome as current Long COVID, and modelling social contact frequency as a log-transformed continuous variable.
 
-##Results
+## Results
 
 <img width="883" height="504" alt="Screenshot 2026-11-24 at 20 13 31" src="https://github.com/user-attachments/assets/024512d7-779d-4511-969f-38cf6f2fedd4" />
 
